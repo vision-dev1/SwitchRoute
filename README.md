@@ -185,7 +185,7 @@ This project is licensed under the MIT License.See the [LICENSE](LICENSE) file f
 ## 👨‍💻 Author
 
 **VISION KC**
-
-
+[GITHUB](https://github.com/vision-dev1)
+[SITE](https://visionkc.com.np)
 ---
 
