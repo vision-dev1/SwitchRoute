@@ -189,10 +189,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
-**Built with ❤️ using Go**
