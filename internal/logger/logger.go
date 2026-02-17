@@ -1,4 +1,4 @@
-// Codes by vision
+// Codes by Vision
 package logger
 
 import (
